@@ -1,6 +1,6 @@
 ### 🌸 Iris Flower Species Classification 🌸
+![iris flower](https://github.com/user-attachments/assets/447c309c-2d0c-4124-a75f-b6b744377765)
 
-![Iris Flowers](iris.jpg)
 
 ## Overview
 
